@@ -1,14 +1,6 @@
 <h1 align="center">
-    <img alt="Next Level Week" src=".github/Logotipo.png" width="400px" />
+    <img alt="Next Level Week" src=".github/Logotipo.png" width="300px" />
 </h1>
-
-<h2 align="center">
-  <br/>
-  🚀 Next Level Week #3 - Trilha Omnistack
-    <br/>
-    
-    
-  <img alt="Rocketseat - NLW" src=".github/rocket.svg" width="200px" />
 
 </h2>
 
@@ -57,6 +49,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-<h1 align="center">
-    <img alt="Next Level Week" src=".github/logo.svg" width="200px" />
-</h1>
+
