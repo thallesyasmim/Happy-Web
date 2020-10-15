@@ -1,5 +1,5 @@
 <h3 align="center">
-    <img alt="Next Level Week" src=".github/Logotipo.png" width="250px" />
+    <img alt="Next Level Week" src=".github/Logotipo.png" width="210px" />
 </h3>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Happy é uma aplicação inspirada no Dia das Crianças, onde se conectamos aos orfanatos próximos à nossa região para que possamos ser instruídos para visitar e levar felicidade, amor para estas crianças. 👦 👧
 
 <h1 align="center">
-    <img alt="Next Level Week" src=".github/Home.png" width="700px" />
+    <img alt="Next Level Week" src=".github/Home.png" width="800px" />
 </h1>
 
 ## 🤔 Como contribuir
