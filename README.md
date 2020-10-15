@@ -1,12 +1,14 @@
 <h1 align="center">
-    <img alt="Next Level Week" src=".github/Splash.png" width="200px" />
+    <img alt="Next Level Week" src=".github/Logotipo.png" width="400px" />
 </h1>
 
 <h2 align="center">
   <br/>
   🚀 Next Level Week #3 - Trilha Omnistack
     <br/>
-  <img alt="Rocketseat - NLW" src=".github/rocket.svg" width="100px" />
+    
+    
+  <img alt="Rocketseat - NLW" src=".github/rocket.svg" width="200px" />
 
 </h2>
 
@@ -37,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O Happy é uma aplicação inspirada no Dia das Crianças, onde se conectamos aos orfanatos próximos à nossa região para que possamos ser instruídos para visitar e levar felicidade, amor para estas crianças. 👦 👧
 
 <h1 align="center">
-    <img alt="Next Level Week" src=".github/Home.png" width="500px" />
+    <img alt="Next Level Week" src=".github/Home.png" width="700px" />
 </h1>
 
 ## 🤔 Como contribuir
